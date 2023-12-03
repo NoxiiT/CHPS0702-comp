@@ -8,3 +8,5 @@
 /dev/mapper/centos-root /                       xfs     defaults        0 0
 UUID=ba5d5cd5-75f2-480c-bbff-a511fca427bf /boot                   xfs     defaults        0 0
 /dev/mapper/centos-swap swap                    swap    defaults        0 0
+lenovo0:/home /home nfs rw 0 0
+lenovo0:/apps /apps nfs rw 0 0
